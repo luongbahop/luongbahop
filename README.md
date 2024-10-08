@@ -1,17 +1,15 @@
-# Hi there, I'm [Steve Luong Ba Hop] 👋
-
-![Full-Stack JavaScript Developer](https://avatars.githubusercontent.com/u/8348404?v=4)
+# Hi there, I'm Steve Luong Ba Hop 👋
 
 I'm a passionate Full-Stack JavaScript Developer with a strong background in building scalable web applications. I have experience working with a variety of technologies and frameworks, and I love to learn and explore new tools and techniques.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [FPT-SOFTWARE]
-- 🌱 I’m currently learning [Python]
-- 👯 I’m looking to collaborate on [Startup]
+- 🔭 I’m currently working on [FPT-SOFTWARE](https://fptsoftware.com/)
+- 🌱 I’m currently learning [Python](https://www.python.org/)
+- 👯 I’m looking to collaborate on a startup
 - 💬 Ask me about JavaScript, Node.js, React, or anything tech-related
-- 📫 How to reach me: [luonghop.lc@gmail.com]
-- ⚡ Fun fact: [A technology geek, full-time web developer, part-time tinkerer.]
+- 📫 How to reach me: luonghop.lc@gmail.com
+- ⚡ Fun fact: I am a technology geek, full-time web developer, and part-time tinkerer.
 
 ## 🛠️ Skills
 
@@ -21,17 +19,17 @@ I'm a passionate Full-Stack JavaScript Developer with a strong background in bui
 - **Tools**: Webpack, Babel, ESLint, Prettier
 
 ### Backend
-- **Languages**: JavaScript, TypeScript
+- **Languages**: JavaScript, TypeScript, PHP
 - **Frameworks**: Node.js, Express, NestJS
 - **Databases**: MongoDB, PostgreSQL, MySQL
 - **Tools**: Docker, Kubernetes, Nginx
 
 ### DevOps
-- **CI/CD**: GitHub Actions, Jenkins, Travis CI
+- **CI/CD**: GitHub Actions, Jenkins
 - **Cloud**: AWS, Google Cloud, Azure
 - **Containerization**: Docker, Kubernetes
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats(updating...)
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
@@ -40,7 +38,7 @@ I'm a passionate Full-Stack JavaScript Developer with a strong background in bui
 - LinkedIn: [Lương Bá Hợp](https://www.linkedin.com/in/steve-luong-ba-hop-88890ba0/)
 - Personal Website: [hoplb.com](https://hoplb.com)
 
-## 📝 Latest Blog Posts
+## 📝 Latest Blog Posts(updating...)
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Build a Full-Stack Application with React and Node.js](https://your-blog.com/full-stack-react-node)
@@ -48,13 +46,13 @@ I'm a passionate Full-Stack JavaScript Developer with a strong background in bui
 - [A Guide to Modern JavaScript Tooling](https://your-blog.com/modern-js-tooling)
 <!-- BLOG-POST-LIST:END -->
 
-## 🏆 Achievements
+## 🏆 Achievements(updating...)
 
 - [Your Achievement 1]
 - [Your Achievement 2]
 - [Your Achievement 3]
 
-## 📚 Projects
+## 📚 Projects(updating...)
 
 ### [Project 1](https://github.com/your-github-username/project-1)
 Description of Project 1.
