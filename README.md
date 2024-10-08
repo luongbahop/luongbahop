@@ -4,7 +4,7 @@ I'm a passionate Full-Stack JavaScript Developer with a strong background in bui
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on [FPT-SOFTWARE](https://fptsoftware.com/)
+- 🔭 I’m currently working at [FPT-SOFTWARE](https://fptsoftware.com/)
 - 🌱 I’m currently learning [Python](https://www.python.org/)
 - 👯 I’m looking to collaborate on a startup
 - 💬 Ask me about JavaScript, Node.js, React, or anything tech-related
