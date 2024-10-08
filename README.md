@@ -1,6 +1,6 @@
 # Hi there, I'm [Steve Luong Ba Hop] 👋
 
-![Full-Stack JavaScript Developer](https://your-image-url.com)
+![Full-Stack JavaScript Developer](https://avatars.githubusercontent.com/u/8348404?v=4)
 
 I'm a passionate Full-Stack JavaScript Developer with a strong background in building scalable web applications. I have experience working with a variety of technologies and frameworks, and I love to learn and explore new tools and techniques.
 
