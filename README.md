@@ -47,13 +47,13 @@ The certification is all about components, state, props, and Javascript, as well
 
 ### [React Exam: Quiz maker based on a trivia API](https://github.com/luongbahop/quizzes/)
 
-GOAL: Build a small quiz maker application that creates a 5-question quiz based on a trivia API
-Demo: [quizzes.web5days.com](https://quizzes.web5days.com/)
+- GOAL: Build a small quiz maker application that creates a 5-question quiz based on a trivia API
+- Demo: [quizzes.web5days.com](https://quizzes.web5days.com/)
 
 ### [React Exam: Build common components](https://github.com/luongbahop/advanced-reactjs-exercises)
 
-GOAL: Create 3 different generic APIs and components
-Demo: [exercises.web5days.com](https://exercises.web5days.com/)
+- GOAL: Create 3 different generic APIs and components
+- Demo: [exercises.web5days.com](https://exercises.web5days.com/)
 
 ## 📈 GitHub Stats
 
