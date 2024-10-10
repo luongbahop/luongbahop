@@ -1,4 +1,4 @@
-# Hi there, I'm Steve Luong Ba Hop 👋
+# Hi there, I'm Steve - Hop Luong Ba 👋
 
 I'm a passionate Full-Stack JavaScript Developer with a strong background in building scalable web applications. I have experience working with a variety of technologies and frameworks, and I love to learn and explore new tools and techniques.
 
