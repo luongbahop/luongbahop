@@ -17,7 +17,7 @@ I'm a passionate Full-Stack JavaScript Developer with a strong background in bui
 
 - **Languages**: JavaScript, TypeScript, HTML, CSS
 - **Frameworks/Libraries**: React, Redux, Next.js, Angular
-- **Tools**: Webpack, Babel, ESLint, Prettier
+- **Tools**: Webpack, Babel, ESLint/TSLint, Prettier
 
 ### Backend
 
